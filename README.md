@@ -13,14 +13,14 @@
 
 - 📫 How to reach me **shivam.yadav0206@outlook.com**
 
-- 📄 Know about my experiences [https://onedrive.live.com/?id=CE93DADFE653D590%21sc9e4f076a3a34066a021232c812e72ac&resid=CE93DADFE653D590%21sc9e4f076a3a34066a021232c812e72ac&cid=ce93dadfe653d590&ithint=file%2Cpdf&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9jZTkzZGFkZmU2NTNkNTkwL0VYYnc1TW1qbzJaQW9DRWpMSUV1Y3F3QkpWUlE0NU8tbXNrUUIyT3pYel91eXc%5Fd2RPcmlnaW49T1dBLkxJTksmd2RQcmV2aW91c1Nlc3Npb249ZTE3NjllOTYtNDZjYi00YzAxLWE0NmMtZDY5YzIyNzE0NjI0&migratedtospo=true&v=validatepermission](https://onedrive.live.com/?id=CE93DADFE653D590%21sc9e4f076a3a34066a021232c812e72ac&resid=CE93DADFE653D590%21sc9e4f076a3a34066a021232c812e72ac&cid=ce93dadfe653d590&ithint=file%2Cpdf&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9jZTkzZGFkZmU2NTNkNTkwL0VYYnc1TW1qbzJaQW9DRWpMSUV1Y3F3QkpWUlE0NU8tbXNrUUIyT3pYel91eXc%5Fd2RPcmlnaW49T1dBLkxJTksmd2RQcmV2aW91c1Nlc3Npb249ZTE3NjllOTYtNDZjYi00YzAxLWE0NmMtZDY5YzIyNzE0NjI0&migratedtospo=true&v=validatepermission)
+- 📄 Know about my experiences [https://shorturl.at/BRDqC](https://shorturl.at/BRDqC)
 
 - ⚡ Fun fact **I can swim good, code better, and make the best jokes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shivam-yadav-348a65220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-yadav-348a65220/" height="30" width="40" /></a>
-<a href="https://instagram.com/_s_h_i_va_m_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_s_h_i_va_m_" height="30" width="40" /></a>
+<a href="https://instagram.com/_s_h_i_vam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_s_h_i_va_m_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shiivam0206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shiivam0206" height="30" width="40" /></a>
 </p>
 
