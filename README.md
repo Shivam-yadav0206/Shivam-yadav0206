@@ -6,15 +6,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam-yadav0206" alt="shivam-yadav0206" /></a> </p>
 
 
-- 🌱 I’m currently learning **Docker, AWS, Devops**
+- 🌱 I’m currently learning: **Docker, AWS, Devops**
 
-- 💬 Ask me about **React, GraphQL, Nodejs, Express**
+- 💬 Ask me about: **React, GraphQL, Nodejs, Express**
 
-- 📫 How to reach me **shivam.yadav0206@outlook.com**
+- 📫 How to reach me: **shivam.yadav0206@outlook.com**
 
-- 📄 Know about my experiences [https://shorturl.at/BRDqC](https://shorturl.at/BRDqC)
+- 📄 Know about my experiences: [Resume Link](https://shorturl.at/xlCTJ)
 
-- ⚡ Fun fact **I can swim good, code better, and make the best jokes.**
+- ⚡ Fun fact: **I can swim good, code better, and make the best jokes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
